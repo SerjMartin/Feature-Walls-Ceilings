@@ -52,3 +52,19 @@ h1, h2 {
     text-decoration: none;
     color: inherit;
 }
+
+/* pic1-images */
+
+#pic1-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#pic1 {
+    height: 600px;
+    width: 100%;
+    background: url('../css/images/pic1.jpeg') no-repeat center center;
+
+}
