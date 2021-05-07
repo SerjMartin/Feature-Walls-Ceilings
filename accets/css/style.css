@@ -68,3 +68,11 @@ h1, h2 {
     background: url('../css/images/pic1.jpeg') no-repeat center center;
 
 }
+
+/* stpes for instalation */
+
+#steps {
+    text-align: center;
+    margin: 30px 0;
+    font-size: 250%;
+}
