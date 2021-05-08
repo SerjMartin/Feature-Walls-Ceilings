@@ -80,14 +80,16 @@ h1, h2 {
 
 }
 
-#cover-text h1 {
+#cover-text > h2 {
     font-family: Itim, cursive;
    color: #fff;
    font-size: 400%;
+   margin-left: 30px;
+   margin-top: 30px;
 }
 
 .become-reality {
-    text-align: center;
+    text-align: center;    
 }
 
 /* stpes for instalation */
@@ -133,3 +135,39 @@ hr {
     margin-bottom: 50px;
     margin-left: 17%;
 }
+
+/* footer */
+
+
+.contact {
+    font-size: 100%;
+    width: 300;
+    float: left;
+    padding: 5%;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    
+}
+
+.contact li {
+  list-style-type: none;
+  color: #3a3a3a;
+}
+
+.social-networks i {
+    font-size: 200%;
+    color: #3a3a3a;
+    margin: 1%;
+    padding: 5%;
+    float: right;
+    margin-right: 30px;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks {
+    text-align: center;
+}
+
