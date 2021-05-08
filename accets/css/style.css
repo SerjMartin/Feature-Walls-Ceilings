@@ -69,6 +69,27 @@ h1, h2 {
 
 }
 
+#cover-text {
+    width: 60%;
+    height: 300px;
+    background-color: rgba(243, 180, 179, 0.5);
+    bottom: 30px;
+    position: absolute;
+    margin-left: 20%;
+
+
+}
+
+#cover-text h1 {
+    font-family: Itim, cursive;
+   color: #fff;
+   font-size: 400%;
+}
+
+.become-reality {
+    text-align: center;
+}
+
 /* stpes for instalation */
 
 #steps {
