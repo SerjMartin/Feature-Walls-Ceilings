@@ -177,4 +177,25 @@ footer {
     display: inline;
 }
 
+/* tv waals galery */
+
+#tv-walls-galery {
+    width: 100%;
+    height: 600px;
+}
+
+/* ceilings-galery */
+
+#ceilings-galery {
+    width: 100%;
+    height: 600px;
+}
+
+/* getaquate-page */
+
+#getaquate-page {
+    width: 100%;
+    height: 600px;
+}
+
 
