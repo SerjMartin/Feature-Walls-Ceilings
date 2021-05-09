@@ -181,19 +181,41 @@ footer {
 
 #tv-walls-galery {
     width: 100%;
-    height: 600px;
+    height: 1200px;
+}
+
+#tv-walls-galery {
+    clear: both;
+    line-height: 1px solid #fff;
+    column-count: 4;
+    column-gap: 1px solid #fff;
+
+}
+
+#tv-walls-galery > img {
+    width: 100%;
 }
 
 /* ceilings-galery */
 
 #ceilings-galery {
     width: 100%;
-    height: 600px;
+    height: 1200px;
+    clear: both;
+    line-height: 1px solid #fff;
+    column-count: 4;
+    column-gap: 1px solid #fff;
+
 }
+
+#ceilings-galery > img {
+    width: 100%;
+}
+
 
 /* getaquate-page */
 
-#getaquate-page {
+#getaquote-page {
     width: 100%;
     height: 600px;
 }
