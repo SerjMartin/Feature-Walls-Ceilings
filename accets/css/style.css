@@ -136,28 +136,38 @@ hr {
     margin-left: 17%;
 }
 
+#steps-section {
+    width: 100%;
+    height: 400px;
+}
+
 /* footer */
 
+footer {
+    background-color: rgb(194, 151, 138);
+    height: 150px;
+    width: 100%;
+    position: relative;
+}
 
 .contact {
     font-size: 100%;
-    width: 300;
+    height: 150px;
     float: left;
-    padding: 5%;
+    padding-left: 5%;
+    padding-top: 4%;
     margin-right: 30px;
-    margin-bottom: 20px;
     
 }
 
 .contact li {
   list-style-type: none;
-  color: #3a3a3a;
+  color: #fff;
 }
 
 .social-networks i {
     font-size: 200%;
-    color: #3a3a3a;
-    margin: 1%;
+    color: #fff;
     padding: 5%;
     float: right;
     margin-right: 30px;
@@ -167,7 +177,4 @@ hr {
     display: inline;
 }
 
-.social-networks {
-    text-align: center;
-}
 
