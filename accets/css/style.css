@@ -72,7 +72,7 @@ h1, h2 {
 #cover-text {
     width: 60%;
     height: 300px;
-    background-color: rgba(243, 180, 179, 0.5);
+    background-color: rgba(235, 206, 168, 0.6);
     bottom: 30px;
     position: absolute;
     margin-left: 20%;
@@ -144,7 +144,7 @@ hr {
 /* footer */
 
 footer {
-    background-color: rgb(194, 151, 138);
+    background-color: rgb(196, 168, 132);
     height: 150px;
     width: 100%;
     position: relative;
@@ -217,7 +217,37 @@ footer {
 
 #getaquote-page {
     width: 100%;
-    height: 600px;
+    height: 500px;
 }
 
+#cover-pictures-section {
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+    background-color: rgb(185, 140, 83);
+}
+
+#cover-pictures-div {
+    background: url('../css/images/1616781841_16-p-podvesnie-potolki-krasivo-16.jpeg') no-repeat center center;
+    height: 800px;
+    width: 100%;
+}
+
+#cover-text-quote {
+    width: 50%;
+    height: 150px;
+    background-color: rgba(185, 140, 83, 0.5);
+    bottom: 100px;
+    position: absolute;
+    margin-left: 25%;
+    text-align: center;
+}
+
+#cover-text-quote h2 {
+    font-family: Itim, cursive;
+   color: #fff;
+   font-size: 400%;
+   margin-left: 30px;
+   margin-top: 30px;
+}
 
