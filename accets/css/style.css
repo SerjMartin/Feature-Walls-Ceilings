@@ -275,6 +275,23 @@ legend {
 
 .submit-button {
     height: 40px;
-    width: 100px;
+    width: 300px;
     border: 1px solid #3a3a3a
+}
+
+.div-submit-button {
+    height: 80px;
+    width: 100%;
+    text-align: center;
+    margin-top: 13px;
+}
+
+.massage-input {
+    border: 1px solid #3a3a3a;
+    height: 50px;
+    width: 500px;
+}
+
+.radio-input {
+    font-size: 150%;
 }
