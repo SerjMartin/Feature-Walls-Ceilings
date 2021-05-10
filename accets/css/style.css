@@ -251,3 +251,30 @@ footer {
    margin-top: 30px;
 }
 
+.your-details {
+    border: 1px solid #3a3a3a;
+    height: 25px;
+    width: 15%;
+    margin-right: 20px;
+    margin-top: 40px;
+}
+
+fieldset {
+    border: 1px solid #3a3a3a;
+    width: 95%;
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 2.5%;
+
+}
+
+legend {
+      text-align: center;
+      font-size: 200%;
+}
+
+.submit-button {
+    height: 40px;
+    width: 100px;
+    border: 1px solid #3a3a3a
+}
