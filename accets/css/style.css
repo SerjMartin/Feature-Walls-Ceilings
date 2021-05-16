@@ -72,12 +72,10 @@ h1, h2 {
 #cover-text {
     width: 60%;
     height: 300px;
-    background-color: rgba(235, 206, 168, 0.6);
+    background-color:rgba(235, 206, 168, .9);
     bottom: 30px;
     position: absolute;
     margin-left: 20%;
-
-
 }
 
 #cover-text > h2 {
@@ -183,22 +181,23 @@ footer {
 
 /* tv waals galery */
 
-#tv-walls-galery {
+.tv-walls-galery {
     width: 98%;
     height: 1200px;
 }
 
-#tv-walls-galery {
+.tv-walls-galery {
     clear: both;
     margin-left: 1%;
-    line-height: 1px solid #fff;
+    line-height: 3px;
     column-count: 4;
-    column-gap: 1px solid #fff;
+    column-gap: 3px;
 
 }
 
-#tv-walls-galery > img {
+.tv-walls-galery > img {
     width: 100%;
+    margin-top: 3px;
 }
 
 /* ceilings-galery */
@@ -208,14 +207,15 @@ footer {
     height: 1240px;
     margin-left: 1%;
     clear: both;
-    line-height: 3px solid #fafafa;
+    line-height: 3px;
     column-count: 4;
-    column-gap: 1px solid #fafafa;
+    column-gap: 3px;
 
 }
 
 #ceilings-galery > img {
     width: 100%;
+    margin-top: 3px;
     
 }
 
@@ -401,7 +401,7 @@ legend {
 
     /* media 1200 tvwalls */
 
-    #tv-walls-galery, #ceilings-galery {
+    .tv-walls-galery, #ceilings-galery {
         column-count: 3;
         height: auto;
     }
@@ -473,7 +473,7 @@ legend {
 
     /* media 950 tvwalls page */
 
-    #tv-walls-galery, #ceilings-galery {
+    .tv-walls-galery, #ceilings-galery {
         column-count: 2;
         height: auto;
     
