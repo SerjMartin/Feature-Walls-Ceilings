@@ -184,12 +184,13 @@ footer {
 /* tv waals galery */
 
 #tv-walls-galery {
-    width: 100%;
+    width: 98%;
     height: 1200px;
 }
 
 #tv-walls-galery {
     clear: both;
+    margin-left: 1%;
     line-height: 1px solid #fff;
     column-count: 4;
     column-gap: 1px solid #fff;
@@ -203,17 +204,19 @@ footer {
 /* ceilings-galery */
 
 #ceilings-galery {
-    width: 100%;
-    height: 1200px;
+    width: 98%;
+    height: 1240px;
+    margin-left: 1%;
     clear: both;
-    line-height: 1px solid #fff;
+    line-height: 3px solid #fafafa;
     column-count: 4;
-    column-gap: 1px solid #fff;
+    column-gap: 1px solid #fafafa;
 
 }
 
 #ceilings-galery > img {
     width: 100%;
+    
 }
 
 
@@ -396,7 +399,14 @@ legend {
         margin-right: 10px;
     }
 
-    /* getaquote page */
+    /* media 1200 tvwalls */
+
+    #tv-walls-galery, #ceilings-galery {
+        column-count: 3;
+        height: auto;
+    }
+
+    /* media 1200 getaquote page */
 
     #cover-text-quote h2 {
         font-size: 300%;
@@ -461,7 +471,15 @@ legend {
         height: 20px;
     } 
 
-    /* getaquote page */
+    /* media 950 tvwalls page */
+
+    #tv-walls-galery, #ceilings-galery {
+        column-count: 2;
+        height: auto;
+    
+    }
+
+    /* media 950 getaquote page */
     
     #cover-text-quote h2 {
         font-size: 200%;
