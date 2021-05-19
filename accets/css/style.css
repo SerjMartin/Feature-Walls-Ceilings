@@ -37,7 +37,7 @@ h1, h2 {
 }
 
 #logo, #menu {
-    line-height: 80px;
+    line-height: 100px;
 }
 
 #menu a:hover {
@@ -78,8 +78,8 @@ h1, h2 {
 #cover-text > h2 {
     font-family: Itim, cursive;
    color: #fff;
-   font-size: 380%;
-   margin-left: 30px;
+   font-size: 350%;
+   margin-left: 40px;
    margin-top: 0;
 }
 
@@ -105,12 +105,14 @@ hr {
     padding-top: 20px;
     width: 50%;
     float: left;
+    height: auto;
 }
 
 #right-colum {
     padding-top: 20px;
     width: 50%;
     float: right;
+    height: auto;
 }
 
 .left-colum-heading {
@@ -118,7 +120,7 @@ hr {
     text-align: left;
     line-height: 20px;
     clear: both;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
     margin-left: 17%;
 }
 
@@ -127,7 +129,7 @@ hr {
     text-align: left;
     line-height: 20px;
     clear: both;
-    margin-bottom: 80px;
+    margin-bottom: 60px;
     margin-left: 17%;
 }
 
@@ -148,9 +150,9 @@ hr {
     background-color: rgb(243, 240, 240);
 }
 
-#about-us h2 {
+#about-us-p h2 {
     font-size: 250%;
-    padding-left: 40%;
+    text-align: center;
 }
 h2 {
  padding-top: 30px;
@@ -395,7 +397,7 @@ legend {
     }
 
     #cover-text > h2 {
-        font-size: 350%;
+        font-size: 250%;
     }
 
     #menu {
@@ -410,6 +412,30 @@ legend {
     #steps-section {
         height: auto;
         text-align: center;
+    }
+
+    #steps {
+        font-size: 200%;
+    }
+
+    #about-us-p {
+        width: 100%;
+        clear: both;
+        text-align: center;
+        height: auto;
+    }
+
+    #about-us-pic {
+        width: 100%;
+        float: left;
+    }
+
+    #about-us {
+        height: auto;
+    }
+
+    #about-us-p h2 {
+        font-size: 200%;
     }
 
     
@@ -467,7 +493,7 @@ legend {
 @media screen and (max-width: 950px) {
 
     #cover-text > h2 {
-        font-size: 275%;
+        font-size: 175%;
     }
 
     #left-colum, #right-colum {
@@ -488,6 +514,14 @@ legend {
     
     #menu li {
         margin-right: 20px;
+    }
+
+    #about-us-p h2 {
+        font-size: 170%;
+    }
+
+    #steps {
+        font-size: 170%;
     }
 
     .contact {
