@@ -283,9 +283,9 @@ footer {
     height: 150px;
     background-color: rgba(185, 140, 83, 0.7);
     bottom: 100px;
-    position: absolute;
+    position:absolute;
     margin-left: 30%;
-    margin-bottom: 50px;
+    margin-bottom: 150px;
     text-align: center;
 }
 
