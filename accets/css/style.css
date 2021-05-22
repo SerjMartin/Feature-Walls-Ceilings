@@ -263,12 +263,14 @@ footer {
     width: 100%;
     height: 660px;
     background-color: rgb(243, 240, 240);
+    padding-top: 25px;
 }
 
 #cover-pictures-section {
     width: 100%;
     height: 500px;
     overflow: hidden;
+    position: relative;
 }
 
 #cover-pictures-div {
@@ -301,18 +303,20 @@ footer {
 .your-details {
     border: 1px solid #3a3a3a;
     height: 25px;
-    width: 250px;
-    margin-right: 25px;
+    width: 90%;
+    margin-left: 3%;
+    margin-right: 3%;
     margin-top: 0;
 }
 
 #fieldset-your-details {
     border: 1px solid #3a3a3a;
     width: 95%;
-    height: 170px;
+    height: 180px;
     padding: 0;
     margin-top: 30px;
     margin-left: 2.5%;
+    position: relative;
 
 }
 
@@ -320,7 +324,7 @@ footer {
     width: 25%;
     height: 100px;
     float: left;
-    padding: 0 0 0 20px;
+    padding: 0;
     text-align: center;
     box-sizing: border-box;
     border: 20px;
@@ -377,6 +381,7 @@ legend {
 #div-radio {
     height: 60px;
     width: 100%;
+    margin-top: 20px;
 }
 
 .radio-input {
