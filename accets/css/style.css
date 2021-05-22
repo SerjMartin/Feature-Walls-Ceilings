@@ -312,7 +312,7 @@ footer {
 #fieldset-your-details {
     border: 1px solid #3a3a3a;
     width: 95%;
-    height: 180px;
+    height: auto;
     padding: 0;
     margin-top: 30px;
     margin-left: 2.5%;
@@ -367,8 +367,8 @@ legend {
 .massage-input {
     border: 1px solid #3a3a3a;
     height: 90px;
-    width: 95%;
-    margin-left: 2.5%;
+    width: 98%;
+    margin-left: 1%;
  
 }
 
@@ -386,7 +386,7 @@ legend {
 
 .radio-input {
     font-size: 160%;
-    margin-left: 40px;
+    margin-left: 30px;
 }
 
 /* media queries */
@@ -478,8 +478,16 @@ legend {
         font-size: 300%;
     }
 
+    #cover-text-quote {
+        text-align: center;
+    }
+
     .your-details {
         height: 23px;
+    }
+
+    #div-details label {
+        font-size: 95%;
     }
 
     legend {
@@ -533,6 +541,10 @@ legend {
         font-size: 170%;
     }
 
+    #fieldset-your-details {
+        height: auto;
+    }
+
     .contact {
         font-size: 50%;
         padding-top: 2px;
@@ -563,17 +575,56 @@ legend {
         font-size: 200%;
     }
 
+    #cover-text-quote {
+        text-align: center;
+    }
+
     .your-details {
-        height: 20px;
+        height: 15px;
+        
     }
 
     legend {
         font-size: 160%;
   }
 
+
+  #div-details label {
+      font-size: 80%;
+  }
+
   .radio-input {
     font-size: 120%;
+    margin-left: 10px;
+}
+}
+@media screen and (max-width: 550px){
+
+legend {
+    font-size: 130%;
 }
 
+#logo {
+    float: left;
+    font-size: 150%;
+}
+
+#logo, #menu {
+    line-height: 50px;
+}
+#menu {
+    font-size: 70%;
+}
+
+.radio-input {
+    font-size: 100%;
+}
+
+#cover-text-quote h2 {
+    font-size: 160%;
+}
+#cover-text-quote {
+    text-align: center;
+}
 }
 
