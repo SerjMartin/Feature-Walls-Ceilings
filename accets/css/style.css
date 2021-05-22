@@ -282,10 +282,9 @@ footer {
     width: 40%;
     height: 150px;
     background-color: rgba(185, 140, 83, 0.7);
-    bottom: 100px;
+    bottom: 20%;
     position:absolute;
     margin-left: 30%;
-    margin-bottom: 150px;
     text-align: center;
 }
 
@@ -295,7 +294,6 @@ footer {
    font-size: 400%;
    margin-left: 30px;
    margin-top: 0;
-   position: relative;
 }
 
 /*your details section */
@@ -496,6 +494,10 @@ legend {
 
     #cover-text > h2 {
         font-size: 175%;
+    }
+
+    #cover-text {
+        height: auto;
     }
 
     #left-colum, #right-colum {
