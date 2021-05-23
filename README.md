@@ -24,6 +24,12 @@ Feature Walls&Ceilings is a business site that will be represent our team's jobs
 
 ## Validator Testing
 
+- HTML 
+  - No errors were returned when passing thought [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fserjmartin.github.io%2FFeature-Walls-Ceilings%2F)
+
+- CSS
+  - No errors were returnetd when passing throught [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fserjmartin.github.io%2FFeature-Walls-Ceilings%2F#textarea)
+
 ### Unfixed Bugs
 
 ## Deployment
