@@ -28,7 +28,7 @@ Feature Walls&Ceilings is a business site that will be represent our team's jobs
   - No errors were returned when passing thought [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fserjmartin.github.io%2FFeature-Walls-Ceilings%2F)
 
 - CSS
-  - No errors were returnetd when passing throught [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fserjmartin.github.io%2FFeature-Walls-Ceilings%2F#textarea)
+  - No errors were returnetd when passing throught [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fserjmartin.github.io%2FFeature-Walls-Ceilings%2Findex.html&profile=css3svg&userme)
 
 ### Unfixed Bugs
 
