@@ -2,7 +2,7 @@
 
 Feature Walls&Ceilings is a business site that will be representing our team's jobs and professionalism in building feature walls and ceilings, the site will be targeted toward customers who are looking to transform their place into a beautiful and modern place, to transform their dream place into reality. This site will be useful for our customers to see the steps of their project, to pick an idea from our gallery, and to send their details and message to us!
 
-! [Responsice Mockup](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/accets/css/images/responsice-monckup1.png)
+![Responsice Mockup](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/accets/css/images/appleceiling.jpeg)
 
 ## Existing Features
 
