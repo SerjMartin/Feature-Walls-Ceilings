@@ -8,33 +8,49 @@ Feature Walls&Ceilings is a business site that will be representing our team's j
 
 -__Navigation Bar__
 
+![Navigation Bar](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/navigation_bar.png)
+
   - Featured to all four pages, the full responsive navigation bar includes links to the Home page, TV Wall gallery page, Ceilings gallery page, and Quote page. This section will allow the user to easily navigate to all four pages!
 
 -__Home Page Image__
+
+![Home Picture](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/home_img.png)
 
   - The landing includes an image with text overlay to let the user know that we can transform their dream into reality, we can build anything that is in their mind. 
 
 -__Steps__
 
+![Steps Section](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/steps_img.png)
+
   - The Steps section will allow the user to see our 4 steps and what is including in every single one to get their job done.
 
 -__About Us__
+
+![About Us Section](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/about_us_img.png)
 
   - The About Us section will allow the user to read some information about us.
 
 -__Footer__
 
+![Footer Section](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/footer_img.png)
+
   - The Footer section includes contact details and links to the relevant social media sites for Feature Walls$Cealings. The links will open to a new tab to allow easy navigation for the user. 
 
 -__TVWalls Gallery__
+
+![TVWalls Gallery](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/tvwalls_gallery.png)
 
   - The TVWalls Gallery will provide the user with images of our jobs and help them with an idea for their project. 
 
 -__Ceilings Galery__
 
+![Ceilings Gallery](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/ceilings_gallery.png)
+
   - The Ceilings Gallery will provide the user with images of our jobs and help them with an idea for their project.
 
 -__Quote__
+
+![Quote Section](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/detail_img.png)
 
   - The Quote section will allow the user to send their contact details and idea of their project to us to be able to come back to them with more info.
 
