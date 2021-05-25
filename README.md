@@ -55,7 +55,7 @@ Feature Walls&Ceilings is a business site that will be representing our team's j
 
 -__Quote__
 
-![Quote Section](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/detail_img.pngadd)
+![Quote Section](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/detail_img.png)
 
   - The Quote section will allow the user to send their contact details and idea of their project to us to be able to come back to them with more info.
 
