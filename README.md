@@ -2,6 +2,11 @@
 
 Feature Walls&Ceilings is a business site that will be representing our team's jobs and professionalism in building feature walls and ceilings, the site will be targeted toward customers who are looking to transform their place into a beautiful and modern place, to transform their dream place into reality. This site will be useful for our customers to see the steps of their project, to pick an idea from our gallery, and to send their details and message to us!
 
+-__Balsamiq Wireframes__
+
+![Wireframe](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/wireframe-balzamic.png)
+
+
 ![Responsice Mockup](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/mockup.png)
 
 ## Existing Features
@@ -50,7 +55,7 @@ Feature Walls&Ceilings is a business site that will be representing our team's j
 
 -__Quote__
 
-![Quote Section](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/detail_img.png)
+![Quote Section](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/detail_img.pngadd)
 
   - The Quote section will allow the user to send their contact details and idea of their project to us to be able to come back to them with more info.
 
