@@ -323,7 +323,7 @@ footer {
 
 }
 
-#div-details {
+#fieldset-your-details div {
     width: 25%;
     height: 100px;
     float: left;
@@ -367,7 +367,7 @@ legend {
     margin-left: 2.5%;
 }
 
-.massage-input {
+.message-input {
     border: 1px solid #3a3a3a;
     height: 90px;
     width: 98%;
@@ -447,7 +447,7 @@ legend {
     }
 
     
-    #div-details {
+    #fieldset-your-details div {
         width: 100%;
         clear: both;
         height: 20px;
@@ -489,7 +489,7 @@ legend {
         height: 23px;
     }
 
-    #div-details label {
+    #fieldset-your-details div > label {
         font-size: 95%;
     }
 
@@ -592,7 +592,7 @@ legend {
   }
 
 
-  #div-details label {
+  #fieldset-your-details div > label {
       font-size: 80%;
   }
 
