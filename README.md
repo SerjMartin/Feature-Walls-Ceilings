@@ -62,11 +62,16 @@ Feature Walls&Ceilings is a business site that will be representing our team's j
 ## Validator Testing
 
 - HTML Home page
-  - No errors were returned when passing thought [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fserjmartin.github.io%2FFeature-Walls-Ceilings%2F)
+  - No errors were returned when passing thought [W3C Validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fserjmartin.github.io%2FFeature-Walls-Ceilings%2F)
 
 - HTML TVWalls Gallery
   - No errors were returnetd when passig thought [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fserjmartin.github.io%2FFeature-Walls-Ceilings%2Ftvwalls.html)
 
+- HTML Ceilings Gallery
+  - No errors were returned when passing thought [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fserjmartin.github.io%2FFeature-Walls-Ceilings%2Fcielings.html)
+
+- HTML Get a Quote 
+  - No errors were returned when passing though [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fserjmartin.github.io%2FFeature-Walls-Ceilings%2Fgetaquote.html)
 
 - CSS
   - No errors were returnetd when passing throught [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fserjmartin.github.io%2FFeature-Walls-Ceilings%2Findex.html&profile=css3svg&userme)
