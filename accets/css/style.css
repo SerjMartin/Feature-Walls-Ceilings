@@ -62,14 +62,14 @@ h1, h2 {
 #pic1 {
     height: 600px;
     width: 100%;
-    background: url('../css/images/pic1.jpeg') no-repeat center center;
+    background: url('../css/images/coverpictures.jpeg') no-repeat center center;
     background-size: cover;
 }
 
 #cover-text {
     width: 44%;
     height: 270px;
-    background-color:rgba(235, 206, 168, .9);
+    background-color:rgba(235, 206, 168, .6);
     bottom: 30px;
     position: absolute;
     margin-left: 28%;
