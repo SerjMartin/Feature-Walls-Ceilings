@@ -155,17 +155,24 @@ h2 {
     width: 65%;
     border: 0;
     margin: 0;
+    padding-bottom: 20px;
     float: left;
     background-color: rgb(243, 240, 240);
+    height: 305px;
 }
 #about-us-p p {
- margin: 20px 20px 20px 40px;
+ margin: 20px 20px 0 40px;
+ 
 }
 
 #about-us-pic {
     width: 35%;
     float: right;
     background-color: rgb(243, 240, 240);
+    height: 305px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
 }
 
 #about-us-pic > img {
