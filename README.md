@@ -41,6 +41,17 @@ The live link can be found here - [Feature Walls&Cealings](https://serjmartin.gi
 
 ![Wireframe](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/wireframe-balzamic.png)
 
+### Fonts
+
+  * Oswald was used for the Logo and heading.
+  * Lato used for the body.
+  * Intim with cursive used for the cover text.
+
+### Languages
+
+  * HTML
+  * CSS
+
 <a name="features"></a>
 ## Features
 
@@ -97,7 +108,7 @@ The live link can be found here - [Feature Walls&Cealings](https://serjmartin.gi
 ### Future Feature
 
  - Create a way for the user to rate the website.
- - Add a page were people can leave their experience with us.
+ - Add a page where people can leave their experience with us.
 
 ## Testing
 
