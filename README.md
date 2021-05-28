@@ -154,5 +154,5 @@ The live link can be found here - [Feature Walls&Cealings](https://serjmartin.gi
   ### Content
    * All code was written by the author - Sergiu Lupascu.
    * To write up a README.md file the most helpful documents were
-     * Code Institute [README Template](https://github.com/Code-Institute-Solutions/readme-temple)
+     * Code Institute [README Template](https://github.com/Code-Institute-Solutions/readme-template)
 
