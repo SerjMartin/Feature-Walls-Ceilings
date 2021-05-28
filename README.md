@@ -1,4 +1,6 @@
-                      # Feature Walls&Ceilings
+          
+          
+   # Feature Walls&Ceilings
 
 ![Responsice Mockup](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/mockup.png)
 
@@ -13,9 +15,9 @@ The live link can be found here - [Feature Walls&Cealings](https://serjmartin.gi
 
 ## Table of Contents
 
-  - [User Experrience(UX)](#user-experrience)
+  - [User Experrience (UX)](#UX)
 
-  - [Feature](#feature)
+  - [Features](#features)
 
   - [Tehnologies Used](#tehnologies-used)
 
@@ -24,17 +26,25 @@ The live link can be found here - [Feature Walls&Cealings](https://serjmartin.gi
   - [Depployment](#deployment)
 
   - [Credits](#credits)
-
+ 
+<a name="UX"></a>
 ## User Experrience (UX)
-
+   #### As a user.
+     . I want to easily understand the purpose and layout of the site.
+     . I want to be able to use the website on any device.
+     . I want to use navigation all the time so I can quickly navigate from one page to another.
+     . I want to have access to the website Gallery all the time to get more ideas for my project.
+     . I want to be able to leave my details and message that they can come back to me with more info or suggestions.
+     . I want to be able to read some information about the team and the steps of the project.
  
 -__Balsamiq Wireframes__
 
 ![Wireframe](https://github.com/SerjMartin/Feature-Walls-Ceilings/blob/master/media/wireframe-balzamic.png)
 
+<a name="features"></a>
+## Features
 
-
-## Existing Features
+### Existing Features
 
 -__Navigation Bar__
 
