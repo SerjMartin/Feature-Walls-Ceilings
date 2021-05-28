@@ -36,6 +36,9 @@ The live link can be found here - [Feature Walls&Cealings](https://serjmartin.gi
      . I want to have access to the website Gallery all the time to get more ideas for my project.
      . I want to be able to leave my details and message that they can come back to me with more info or suggestions.
      . I want to be able to read some information about the team and the steps of the project.
+  
+  <a name="tehnologies-used"></a>
+ ## Tehnologies Used
  
 -__Balsamiq Wireframes__
 
@@ -144,4 +147,12 @@ The live link can be found here - [Feature Walls&Cealings](https://serjmartin.gi
 
   - The photo used on the Home and Quote are from https://www.google.com/search?q=podvesnie+potolki&tbm=isch&ved=2ahUKEwiL-fT71uLwAhWHS8AKHRMtA0QQ2-cCegQIABAA&oq&gs_lcp=CgNpbWcQARgDM
   - The images used for TVWalls and Ceilings Gallery part are from my gallery and part are from https://www.google.com/search?q=podvesnie+potolki&tbm=isch&ved=2ahUKEwiL-fT71uLwAhWHS8AKHRMtA0QQ2-cCegQIABAA&oq&gs_lcp=CgNpbWcQARgDM
+
+
+## Credits
+
+  ### Content
+   * All code was written by the author - Sergiu Lupascu.
+   * To write up a README.md file the most helpful documents were
+     * Code Institute [README Template](https://github.com/Code-Institute-Solutions/readme-temple)
 
