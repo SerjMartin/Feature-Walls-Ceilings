@@ -94,6 +94,11 @@ The live link can be found here - [Feature Walls&Cealings](https://serjmartin.gi
 
   - The Quote section will allow the user to send their contact details and idea of their project to us to be able to come back to them with more info.
 
+### Future Feature
+
+ - Create a way for the user to rate the website.
+ - Add a page were people can leave their experience with us.
+
 ## Testing
 
 ## Validator Testing
