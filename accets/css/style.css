@@ -84,7 +84,7 @@ h1, h2 {
 }
 
 .become-reality {
-    text-align: center;    
+    text-align: center;
 }
 
 /* stpes for instalation */
@@ -137,7 +137,7 @@ hr {
 }
 #div-colums {
     width: 100%;
-    height: auto;  
+    height: auto;
 }
 #about-us {
     width: 100%;
@@ -162,7 +162,7 @@ h2 {
 }
 #about-us-p p {
  margin: 20px 20px 0 40px;
- 
+
 }
 
 #about-us-pic {
@@ -199,8 +199,8 @@ footer {
     float: left;
     padding-left: 5%;
     padding-top: 5px;
-    margin-right: 30px;
-    
+    margin-right: 50px;
+
 }
 
 .contact li {
@@ -213,7 +213,7 @@ footer {
     color: #fff;
     padding: 15px 30px;
     float: right;
-    margin-right: 30px;
+    margin-right: 50px;
 }
 
 .social-networks > li {
@@ -257,7 +257,7 @@ footer {
 #ceilings-galery > img {
     width: 100%;
     margin-top: 3px;
-    
+
 }
 
 
@@ -372,7 +372,7 @@ legend {
     height: 90px;
     width: 98%;
     margin-left: 1%;
- 
+
 }
 
 #div-message {
@@ -411,7 +411,7 @@ legend {
     #menu {
         font-size: 100%;
     }
-    
+
     #menu li {
         margin-right: 20px;
     }
@@ -446,7 +446,7 @@ legend {
         font-size: 200%;
     }
 
-    
+
     #fieldset-your-details div {
         width: 100%;
         clear: both;
@@ -501,7 +501,7 @@ legend {
     font-size: 140%;
 }
 
-    
+
 }
 
 /* for medium scree size from 950 px and down */
@@ -531,7 +531,7 @@ legend {
     #menu {
         font-size: 100%;
     }
-    
+
     #menu li {
         margin-right: 20px;
     }
@@ -562,18 +562,18 @@ legend {
 
     footer {
         height: 20px;
-    } 
+    }
 
     /* media 950 tvwalls page */
 
     .tv-walls-galery, #ceilings-galery {
         column-count: 2;
         height: auto;
-    
+
     }
 
     /* media 950 getaquote page */
-    
+
     #cover-text-quote h2 {
         font-size: 200%;
     }
@@ -584,7 +584,7 @@ legend {
 
     .your-details {
         height: 15px;
-        
+
     }
 
     legend {
