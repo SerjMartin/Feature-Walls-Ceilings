@@ -44,6 +44,11 @@ h1, h2 {
    border-bottom: 1px solid #3a3a3a;
 }
 
+.home-button, .tvwalls-button, .ceilings-button, .quote-button {
+    text-decoration: underline 2px solid rgb(143, 114, 77);
+    color: rgb(143, 114, 77);
+}
+
 
 #menu a {
     text-decoration: none;
