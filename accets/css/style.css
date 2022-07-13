@@ -594,45 +594,51 @@ legend {
 
     legend {
         font-size: 160%;
-  }
+    }
 
 
-  #fieldset-your-details div > label {
-      font-size: 80%;
-  }
+    #fieldset-your-details div > label {
+        font-size: 80%;
+    }
 
-  .radio-input {
-    font-size: 120%;
-    margin-left: 10px;
-}
+    .radio-input {
+        font-size: 120%;
+        margin-left: 10px;
+    }
 }
 @media screen and (max-width: 550px){
+    #cover-text {
+        width: 100%;
+        margin-left: 0;
+    }
 
-legend {
-    font-size: 130%;
-}
+    legend {
+        font-size: 130%;
+    }
 
-#logo {
-    float: left;
-    font-size: 150%;
-}
+    #logo {
+        float: left;
+        font-size: 150%;
+    }
 
-#logo, #menu {
-    line-height: 50px;
-}
-#menu {
-    font-size: 70%;
-}
+    #logo, #menu {
+        line-height: 50px;
+    }
+    #menu {
+        font-size: 70%;
+    }
 
-.radio-input {
-    font-size: 100%;
-}
+    .radio-input {
+        font-size: 100%;
+    }
 
-#cover-text-quote h2 {
-    font-size: 160%;
-}
-#cover-text-quote {
-    text-align: center;
-}
+    #cover-text-quote h2 {
+        font-size: 160%;
+    }
+    #cover-text-quote {
+        width: 100%;
+        margin-left: 0;
+        text-align: center;
+    }
 }
 
