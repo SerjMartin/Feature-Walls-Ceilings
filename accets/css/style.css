@@ -229,10 +229,7 @@ footer {
 
 .tv-walls-galery {
     width: 98%;
-    height: 1180px;
-}
-
-.tv-walls-galery {
+    height: auto;
     clear: both;
     margin-left: 1%;
     line-height: 3px;
@@ -250,7 +247,7 @@ footer {
 
 #ceilings-galery {
     width: 98%;
-    height: 1240px;
+    height: auto;
     margin-left: 1%;
     clear: both;
     line-height: 3px;
